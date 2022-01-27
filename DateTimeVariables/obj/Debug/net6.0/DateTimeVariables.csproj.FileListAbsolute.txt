@@ -1,0 +1,15 @@
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.exe
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.deps.json
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.runtimeconfig.json
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.dll
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\ref\DateTimeVariables.dll
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\bin\Debug\net6.0\DateTimeVariables.pdb
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.csproj.AssemblyReference.cache
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.AssemblyInfoInputs.cache
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.AssemblyInfo.cs
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.dll
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\ref\DateTimeVariables.dll
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.pdb
+C:\Users\antho\repos\DateTimeVariablesApp\DateTimeVariables\obj\Debug\net6.0\DateTimeVariables.genruntimeconfig.cache
